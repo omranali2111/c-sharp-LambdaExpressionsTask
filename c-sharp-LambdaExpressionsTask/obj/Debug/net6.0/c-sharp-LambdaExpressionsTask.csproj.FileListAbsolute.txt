@@ -1,0 +1,15 @@
+C:\Users\ict\Desktop\code-TRA\c-sharp-LambdaExpressionsTask\c-sharp-LambdaExpressionsTask\bin\Debug\net6.0\c-sharp-LambdaExpressionsTask.exe
+C:\Users\ict\Desktop\code-TRA\c-sharp-LambdaExpressionsTask\c-sharp-LambdaExpressionsTask\bin\Debug\net6.0\c-sharp-LambdaExpressionsTask.deps.json
+C:\Users\ict\Desktop\code-TRA\c-sharp-LambdaExpressionsTask\c-sharp-LambdaExpressionsTask\bin\Debug\net6.0\c-sharp-LambdaExpressionsTask.runtimeconfig.json
+C:\Users\ict\Desktop\code-TRA\c-sharp-LambdaExpressionsTask\c-sharp-LambdaExpressionsTask\bin\Debug\net6.0\c-sharp-LambdaExpressionsTask.dll
+C:\Users\ict\Desktop\code-TRA\c-sharp-LambdaExpressionsTask\c-sharp-LambdaExpressionsTask\bin\Debug\net6.0\c-sharp-LambdaExpressionsTask.pdb
+C:\Users\ict\Desktop\code-TRA\c-sharp-LambdaExpressionsTask\c-sharp-LambdaExpressionsTask\obj\Debug\net6.0\c-sharp-LambdaExpressionsTask.csproj.AssemblyReference.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-LambdaExpressionsTask\c-sharp-LambdaExpressionsTask\obj\Debug\net6.0\c-sharp-LambdaExpressionsTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ict\Desktop\code-TRA\c-sharp-LambdaExpressionsTask\c-sharp-LambdaExpressionsTask\obj\Debug\net6.0\c-sharp-LambdaExpressionsTask.AssemblyInfoInputs.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-LambdaExpressionsTask\c-sharp-LambdaExpressionsTask\obj\Debug\net6.0\c-sharp-LambdaExpressionsTask.AssemblyInfo.cs
+C:\Users\ict\Desktop\code-TRA\c-sharp-LambdaExpressionsTask\c-sharp-LambdaExpressionsTask\obj\Debug\net6.0\c-sharp-LambdaExpressionsTask.csproj.CoreCompileInputs.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-LambdaExpressionsTask\c-sharp-LambdaExpressionsTask\obj\Debug\net6.0\c-sharp-LambdaExpressionsTask.dll
+C:\Users\ict\Desktop\code-TRA\c-sharp-LambdaExpressionsTask\c-sharp-LambdaExpressionsTask\obj\Debug\net6.0\refint\c-sharp-LambdaExpressionsTask.dll
+C:\Users\ict\Desktop\code-TRA\c-sharp-LambdaExpressionsTask\c-sharp-LambdaExpressionsTask\obj\Debug\net6.0\c-sharp-LambdaExpressionsTask.pdb
+C:\Users\ict\Desktop\code-TRA\c-sharp-LambdaExpressionsTask\c-sharp-LambdaExpressionsTask\obj\Debug\net6.0\c-sharp-LambdaExpressionsTask.genruntimeconfig.cache
+C:\Users\ict\Desktop\code-TRA\c-sharp-LambdaExpressionsTask\c-sharp-LambdaExpressionsTask\obj\Debug\net6.0\ref\c-sharp-LambdaExpressionsTask.dll

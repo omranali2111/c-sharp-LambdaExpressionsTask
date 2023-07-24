@@ -33,6 +33,15 @@ internal class Program
             Console.WriteLine(name);
         }
 
+        //Find the average GPA of all female students.
+
+        var averageGPA = list.Where(x => x.Gender == "Female").Average(x => x.GPA);
+           
+                                      
+        Console.WriteLine(averageGPA);
+
+
+
 
 
     }

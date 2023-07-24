@@ -35,11 +35,20 @@ internal class Program
 
         //Find the average GPA of all female students.
 
-        var averageGPA = list.Where(x => x.Gender == "Female").Average(x => x.GPA);
-           
-                                      
+        var averageGPA = list.Where(x => x.Gender == "Female").Average(x => x.GPA);                            
         Console.WriteLine(averageGPA);
 
+        //Display the names of the top three students with the highest GPA.
+
+        var topThree= list.OrderByDescending(student => student.GPA)
+                                  .Take(3)
+                                  .Select(student => student.Name);
+
+        Console.WriteLine("Top three students with the highest GPA:");
+        foreach (string name in topThree)
+        {
+            Console.WriteLine(name);
+        }
 
 
 
